@@ -1,0 +1,6 @@
+{
+  "name": "PeladaPro — Sorteio de Futebol, Juiz & Campeonatos",
+  "description": "Aplicativo completo para sorteio de times de society e campo, importação de listas do WhatsApp, calibragem discreta de elenco, cara ou coroa virtual, cronômetro com acréscimos, campeonatos e salas privadas em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
